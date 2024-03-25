@@ -1,3 +1,5 @@
+bug fixes for turtle wow
+
 # CallOfElements for vanilla WOW
 
 This is an All-In-One Shaman class addon for World Of Warcraft.
